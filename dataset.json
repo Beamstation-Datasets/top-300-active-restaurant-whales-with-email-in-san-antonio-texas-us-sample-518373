@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in San Antonio, Texas, US",
+  "export_job_id": "cf18ab0e-632b-4452-90f7-2fe3548e24e1",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 518373,
+  "location_name": "San Antonio",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-san-antonio-texas-us-sample-518373",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/518373/beamstation_518373_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.78,
+  "sample_records": 22,
+  "sample_sha256": "ba850f022b558833cd6fd03d9a614b72dd0fc6f28cfd7abf357eec24c20d70de",
+  "sample_size_bytes": 102201,
+  "total_records": 225,
+  "updated_at": "2026-04-07T17:16:19.715842+00:00"
+}
