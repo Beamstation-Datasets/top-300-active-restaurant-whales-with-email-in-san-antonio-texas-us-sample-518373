@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in San Antonio, Texas, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `518373` |
 | Location | San Antonio |
 | Category | Restaurants |
-| Full dataset size | 225 records |
-| Free sample size | 22 records (9.78%) |
-| Last export | 2026-04-07T17:16:19.715842+00:00 |
+| Full dataset size | 130 records |
+| Free sample size | 13 records (10.0%) |
+| Last export | 2026-04-14T22:52:47.682999+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-san-antonio-texas-us-sample-518373/releases/download/sample-latest/beamstation_518373_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
