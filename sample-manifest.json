@@ -1,12 +1,12 @@
 {
-  "export_job_id": "06e5f882-2dae-47e9-886e-73a309067b94",
+  "export_job_id": "bb519793-cee7-4b16-8801-300704bd15c0",
   "id_short": 518373,
-  "published_at": "2026-04-22T07:36:47Z",
+  "published_at": "2026-04-29T07:42:44Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-san-antonio-texas-us-sample-518373",
   "sample_asset_name": "beamstation_518373_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/518373/beamstation_518373_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "4b510a3b47c24eb7624f41395555de1e8f5fb6a94c9b21fb920d8aa8461eb44d",
-  "sample_size_bytes": 28214,
-  "total_records": 31
+  "sample_records": 30,
+  "sample_sha256": "ec89b2d5df2939b2500c9396e9587cc25ab735fe93e02a88f765793cc4d2ec37",
+  "sample_size_bytes": 140626,
+  "total_records": 300
 }
